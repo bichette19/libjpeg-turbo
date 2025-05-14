@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <jpeglib.h>
 #include <setjmp.h>
-#include <setjmp.h>
 #include <stdint.h>
 
 struct my_error_mgr {
